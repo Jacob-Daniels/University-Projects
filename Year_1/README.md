@@ -8,6 +8,6 @@
   - A 2D game created in Unity
 
   <h2>Unit 3:</h2>
-  - A digital copy of a board game, which was created by a team of 3 members
+  - A digital copy of a board game, that was created by a team of 3 members
 
 </div>
