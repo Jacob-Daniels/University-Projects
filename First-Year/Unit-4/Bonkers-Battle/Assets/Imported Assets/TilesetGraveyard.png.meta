@@ -1,0 +1,3222 @@
+fileFormatVersion: 2
+guid: ed03ecf86e6889d449e2dc3b38158891
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -296310855199034265
+    second: TilesetGraveyard_0
+  - first:
+      213: -1029609139085862971
+    second: TilesetGraveyard_1
+  - first:
+      213: 7140929656515648885
+    second: TilesetGraveyard_2
+  - first:
+      213: -1545394975824984326
+    second: TilesetGraveyard_3
+  - first:
+      213: -6287879910742848197
+    second: TilesetGraveyard_4
+  - first:
+      213: -5804497639556812483
+    second: TilesetGraveyard_5
+  - first:
+      213: -8795416593371876982
+    second: TilesetGraveyard_6
+  - first:
+      213: 7652146472378578803
+    second: TilesetGraveyard_7
+  - first:
+      213: -8525936124077775089
+    second: TilesetGraveyard_8
+  - first:
+      213: 8001779571528199041
+    second: TilesetGraveyard_9
+  - first:
+      213: 8353261574564320335
+    second: TilesetGraveyard_10
+  - first:
+      213: -5037067230871014597
+    second: TilesetGraveyard_11
+  - first:
+      213: 1675827977994961767
+    second: TilesetGraveyard_12
+  - first:
+      213: 2294690203410060025
+    second: TilesetGraveyard_13
+  - first:
+      213: -8026285061756798798
+    second: TilesetGraveyard_14
+  - first:
+      213: -2888021959749883379
+    second: TilesetGraveyard_15
+  - first:
+      213: 7357725724614907831
+    second: TilesetGraveyard_16
+  - first:
+      213: -4726169179988572076
+    second: TilesetGraveyard_17
+  - first:
+      213: 6824091423706276192
+    second: TilesetGraveyard_18
+  - first:
+      213: 969282791123896237
+    second: TilesetGraveyard_19
+  - first:
+      213: -4665698203360806298
+    second: TilesetGraveyard_20
+  - first:
+      213: -249368312636468357
+    second: TilesetGraveyard_21
+  - first:
+      213: -183600143825156209
+    second: TilesetGraveyard_22
+  - first:
+      213: 1832868320748541596
+    second: TilesetGraveyard_23
+  - first:
+      213: -7545384491818737919
+    second: TilesetGraveyard_24
+  - first:
+      213: -4673699389719373408
+    second: TilesetGraveyard_25
+  - first:
+      213: 4757681382816932306
+    second: TilesetGraveyard_26
+  - first:
+      213: -774915322216998881
+    second: TilesetGraveyard_27
+  - first:
+      213: 9169665654274049970
+    second: TilesetGraveyard_28
+  - first:
+      213: 6316856279050809901
+    second: TilesetGraveyard_29
+  - first:
+      213: -7099212569664421936
+    second: TilesetGraveyard_30
+  - first:
+      213: -2897321456752879706
+    second: TilesetGraveyard_31
+  - first:
+      213: -6904099150259982140
+    second: TilesetGraveyard_32
+  - first:
+      213: 5195999659542047981
+    second: TilesetGraveyard_33
+  - first:
+      213: 7833936359195394656
+    second: TilesetGraveyard_34
+  - first:
+      213: -5965518560118651376
+    second: TilesetGraveyard_35
+  - first:
+      213: -5334167497451551962
+    second: TilesetGraveyard_36
+  - first:
+      213: 721956544990638710
+    second: TilesetGraveyard_37
+  - first:
+      213: -3389107920154023774
+    second: TilesetGraveyard_38
+  - first:
+      213: -6484843892572358420
+    second: TilesetGraveyard_39
+  - first:
+      213: -496909175734367041
+    second: TilesetGraveyard_40
+  - first:
+      213: -5781416986000459395
+    second: TilesetGraveyard_41
+  - first:
+      213: 1899037928841431868
+    second: TilesetGraveyard_42
+  - first:
+      213: -7282050275279564409
+    second: TilesetGraveyard_43
+  - first:
+      213: -3402028121353107592
+    second: TilesetGraveyard_44
+  - first:
+      213: 6893842388292022481
+    second: TilesetGraveyard_45
+  - first:
+      213: 2564878606698391543
+    second: TilesetGraveyard_46
+  - first:
+      213: -2757513732016945587
+    second: TilesetGraveyard_47
+  - first:
+      213: 4961021459560380591
+    second: TilesetGraveyard_48
+  - first:
+      213: -9140422431540227217
+    second: TilesetGraveyard_49
+  - first:
+      213: 5203766093824929072
+    second: TilesetGraveyard_50
+  - first:
+      213: -9121923359638588940
+    second: TilesetGraveyard_51
+  - first:
+      213: 2570879381185057502
+    second: TilesetGraveyard_52
+  - first:
+      213: -5106281048535895093
+    second: TilesetGraveyard_53
+  - first:
+      213: 3012858799396155771
+    second: TilesetGraveyard_54
+  - first:
+      213: -7015381179622847861
+    second: TilesetGraveyard_55
+  - first:
+      213: 5984567052138039470
+    second: TilesetGraveyard_56
+  - first:
+      213: -1772258801422510767
+    second: TilesetGraveyard_57
+  - first:
+      213: -8771129381985263301
+    second: TilesetGraveyard_58
+  - first:
+      213: -5517567274828445358
+    second: TilesetGraveyard_59
+  - first:
+      213: 5048403624827371608
+    second: TilesetGraveyard_60
+  - first:
+      213: -3005102858354948751
+    second: TilesetGraveyard_61
+  - first:
+      213: -5004584348925603192
+    second: TilesetGraveyard_62
+  - first:
+      213: -6584444440417908712
+    second: TilesetGraveyard_63
+  - first:
+      213: 1216919347988983202
+    second: TilesetGraveyard_64
+  - first:
+      213: 2128785457453888003
+    second: TilesetGraveyard_65
+  - first:
+      213: 2530984852327980190
+    second: TilesetGraveyard_66
+  - first:
+      213: 5160988794640886615
+    second: TilesetGraveyard_67
+  - first:
+      213: -3793477908013240399
+    second: TilesetGraveyard_68
+  - first:
+      213: -6748174300132610154
+    second: TilesetGraveyard_69
+  - first:
+      213: 8728829669240563769
+    second: TilesetGraveyard_70
+  - first:
+      213: -2349986759609917237
+    second: TilesetGraveyard_71
+  - first:
+      213: 2543463971422043200
+    second: TilesetGraveyard_72
+  - first:
+      213: 6037207758489447047
+    second: TilesetGraveyard_73
+  - first:
+      213: -2340425946834723321
+    second: TilesetGraveyard_74
+  - first:
+      213: -1710736353110350357
+    second: TilesetGraveyard_75
+  - first:
+      213: 2600484409491009023
+    second: TilesetGraveyard_76
+  - first:
+      213: -8026886414522625985
+    second: TilesetGraveyard_77
+  - first:
+      213: 737668426279566286
+    second: TilesetGraveyard_78
+  - first:
+      213: 7318058873754094130
+    second: TilesetGraveyard_79
+  - first:
+      213: 7743287372122703235
+    second: TilesetGraveyard_80
+  - first:
+      213: 4143189858011467502
+    second: TilesetGraveyard_81
+  - first:
+      213: 1879165567362871287
+    second: TilesetGraveyard_82
+  - first:
+      213: -3812231837525514895
+    second: TilesetGraveyard_83
+  - first:
+      213: 1136069454556114145
+    second: TilesetGraveyard_84
+  - first:
+      213: 687879120172616193
+    second: TilesetGraveyard_85
+  - first:
+      213: 378371720906120823
+    second: TilesetGraveyard_86
+  - first:
+      213: -6158641262548353392
+    second: TilesetGraveyard_87
+  - first:
+      213: 8358478608059235263
+    second: TilesetGraveyard_88
+  - first:
+      213: -7945256294497894436
+    second: TilesetGraveyard_89
+  - first:
+      213: -4282691052606595871
+    second: TilesetGraveyard_90
+  - first:
+      213: 5038513348366650111
+    second: TilesetGraveyard_91
+  - first:
+      213: 1225507308891171868
+    second: TilesetGraveyard_92
+  - first:
+      213: -722046581650103269
+    second: TilesetGraveyard_93
+  - first:
+      213: 3574715724500472524
+    second: TilesetGraveyard_94
+  - first:
+      213: -4138044680114594614
+    second: TilesetGraveyard_95
+  - first:
+      213: -5134753445025642156
+    second: TilesetGraveyard_96
+  - first:
+      213: 4965269547717347284
+    second: TilesetGraveyard_97
+  - first:
+      213: 1991448732174260121
+    second: TilesetGraveyard_98
+  - first:
+      213: -6652910961073280165
+    second: TilesetGraveyard_99
+  - first:
+      213: -931254507985747123
+    second: TilesetGraveyard_100
+  - first:
+      213: 2069432174443411873
+    second: TilesetGraveyard_101
+  - first:
+      213: -3690367133038327467
+    second: TilesetGraveyard_102
+  - first:
+      213: -8000336691003893957
+    second: TilesetGraveyard_103
+  - first:
+      213: 2998527512514587622
+    second: TilesetGraveyard_104
+  - first:
+      213: 700098425885361011
+    second: TilesetGraveyard_105
+  - first:
+      213: -2933977519418822416
+    second: TilesetGraveyard_106
+  - first:
+      213: -5699591734194495200
+    second: TilesetGraveyard_107
+  - first:
+      213: -9063389090855871075
+    second: TilesetGraveyard_108
+  - first:
+      213: -6424430134756499328
+    second: TilesetGraveyard_109
+  - first:
+      213: -6614571821336912386
+    second: TilesetGraveyard_110
+  - first:
+      213: -6487719338880051981
+    second: TilesetGraveyard_111
+  - first:
+      213: -4647962482463582342
+    second: TilesetGraveyard_112
+  - first:
+      213: -4316485987973253528
+    second: TilesetGraveyard_113
+  - first:
+      213: 5706326786813010397
+    second: TilesetGraveyard_114
+  - first:
+      213: -4103758304660783908
+    second: TilesetGraveyard_115
+  - first:
+      213: 6316975348098914282
+    second: TilesetGraveyard_116
+  - first:
+      213: 4772082792775424691
+    second: TilesetGraveyard_117
+  - first:
+      213: 5839466058055388072
+    second: TilesetGraveyard_118
+  - first:
+      213: -1100349165468644279
+    second: TilesetGraveyard_119
+  - first:
+      213: 6450632449521106809
+    second: TilesetGraveyard_120
+  - first:
+      213: 5775882477017888662
+    second: TilesetGraveyard_121
+  - first:
+      213: 2698993976122000035
+    second: TilesetGraveyard_122
+  - first:
+      213: 4119700877079888285
+    second: TilesetGraveyard_123
+  - first:
+      213: -6169685446287839871
+    second: TilesetGraveyard_124
+  - first:
+      213: 8959044724931459844
+    second: TilesetGraveyard_125
+  - first:
+      213: -4406435190725057702
+    second: TilesetGraveyard_126
+  - first:
+      213: 4675526180958532493
+    second: TilesetGraveyard_127
+  - first:
+      213: -535125331885850971
+    second: TilesetGraveyard_128
+  - first:
+      213: -5493092786749708850
+    second: TilesetGraveyard_129
+  - first:
+      213: 7626122298666828398
+    second: TilesetGraveyard_130
+  - first:
+      213: 61681013816499564
+    second: TilesetGraveyard_131
+  - first:
+      213: 7116070431941940822
+    second: TilesetGraveyard_132
+  - first:
+      213: 1014246665738520796
+    second: TilesetGraveyard_133
+  - first:
+      213: -6292979321445248384
+    second: TilesetGraveyard_134
+  - first:
+      213: 8774962711819535034
+    second: TilesetGraveyard_135
+  - first:
+      213: -492925854640662923
+    second: TilesetGraveyard_136
+  - first:
+      213: -7145236755102391348
+    second: TilesetGraveyard_137
+  - first:
+      213: 8431324121791158837
+    second: TilesetGraveyard_138
+  - first:
+      213: -8023544495858951638
+    second: TilesetGraveyard_139
+  - first:
+      213: 1766726857464248373
+    second: TilesetGraveyard_140
+  - first:
+      213: -232268753859561218
+    second: TilesetGraveyard_141
+  - first:
+      213: 1501912983415424659
+    second: TilesetGraveyard_142
+  - first:
+      213: 202538068416884613
+    second: TilesetGraveyard_143
+  - first:
+      213: 7679085924342418018
+    second: TilesetGraveyard_144
+  - first:
+      213: -2566295385293413112
+    second: TilesetGraveyard_145
+  - first:
+      213: 7943398093839492732
+    second: TilesetGraveyard_146
+  - first:
+      213: 1407764068341629913
+    second: TilesetGraveyard_147
+  - first:
+      213: -5936356150316835912
+    second: TilesetGraveyard_148
+  - first:
+      213: 6132794840339160445
+    second: TilesetGraveyard_149
+  - first:
+      213: 1694847827822644993
+    second: TilesetGraveyard_150
+  - first:
+      213: -7211810725361816151
+    second: TilesetGraveyard_151
+  - first:
+      213: -5383637124803278339
+    second: TilesetGraveyard_152
+  - first:
+      213: -1565192928824479067
+    second: TilesetGraveyard_153
+  - first:
+      213: 8610258316322309703
+    second: TilesetGraveyard_154
+  - first:
+      213: 7626112146194498922
+    second: TilesetGraveyard_155
+  - first:
+      213: -1057604192365580253
+    second: TilesetGraveyard_156
+  - first:
+      213: 2620578287351903924
+    second: TilesetGraveyard_157
+  - first:
+      213: 9005391840551745842
+    second: TilesetGraveyard_158
+  - first:
+      213: -4000686447856268647
+    second: TilesetGraveyard_159
+  - first:
+      213: -6279901326442321777
+    second: TilesetGraveyard_160
+  - first:
+      213: 3075186060122020524
+    second: TilesetGraveyard_161
+  - first:
+      213: 3218172076683897918
+    second: TilesetGraveyard_162
+  - first:
+      213: 87896773102085939
+    second: TilesetGraveyard_163
+  - first:
+      213: 6617775734845129196
+    second: TilesetGraveyard_164
+  - first:
+      213: 1676905096970999934
+    second: TilesetGraveyard_165
+  - first:
+      213: 5777387131091815608
+    second: TilesetGraveyard_166
+  - first:
+      213: 7002923151296936788
+    second: TilesetGraveyard_167
+  - first:
+      213: 1134688689657998831
+    second: TilesetGraveyard_168
+  - first:
+      213: 7961838513693432037
+    second: TilesetGraveyard_169
+  - first:
+      213: 2621885643324133542
+    second: TilesetGraveyard_170
+  - first:
+      213: -2658586906895607899
+    second: TilesetGraveyard_171
+  - first:
+      213: 3385379952943238771
+    second: TilesetGraveyard_172
+  - first:
+      213: -791542981090606589
+    second: TilesetGraveyard_173
+  - first:
+      213: 3245578037314037533
+    second: TilesetGraveyard_174
+  - first:
+      213: -8699046735365917940
+    second: TilesetGraveyard_175
+  - first:
+      213: -8220457239988876701
+    second: TilesetGraveyard_176
+  - first:
+      213: 2037955326921495147
+    second: TilesetGraveyard_177
+  - first:
+      213: -6463838374590870808
+    second: TilesetGraveyard_178
+  - first:
+      213: 70119287197030051
+    second: TilesetGraveyard_179
+  - first:
+      213: 401184293257762283
+    second: TilesetGraveyard_180
+  - first:
+      213: 3421958440663880054
+    second: TilesetGraveyard_181
+  - first:
+      213: 425592294558051160
+    second: TilesetGraveyard_182
+  - first:
+      213: 1129859201231639493
+    second: TilesetGraveyard_183
+  - first:
+      213: 8817824827921963981
+    second: TilesetGraveyard_184
+  - first:
+      213: -4952319728169852216
+    second: TilesetGraveyard_185
+  - first:
+      213: -5756737804828177066
+    second: TilesetGraveyard_186
+  - first:
+      213: 5570417035804223038
+    second: TilesetGraveyard_187
+  - first:
+      213: 8156107561344671300
+    second: TilesetGraveyard_188
+  - first:
+      213: -825071453145281703
+    second: TilesetGraveyard_189
+  - first:
+      213: -7050517289912292894
+    second: TilesetGraveyard_190
+  - first:
+      213: 5842888586936685564
+    second: TilesetGraveyard_191
+  - first:
+      213: -4333040474237063398
+    second: TilesetGraveyard_192
+  - first:
+      213: -2765912927836490036
+    second: TilesetGraveyard_193
+  - first:
+      213: 860081675960250241
+    second: TilesetGraveyard_194
+  - first:
+      213: 4144161241317380510
+    second: TilesetGraveyard_195
+  - first:
+      213: -4709353609340643348
+    second: TilesetGraveyard_196
+  - first:
+      213: 4984560346339501111
+    second: TilesetGraveyard_197
+  - first:
+      213: 8217605511313226063
+    second: TilesetGraveyard_198
+  - first:
+      213: -8056988913913190563
+    second: TilesetGraveyard_199
+  - first:
+      213: -8755185148097812429
+    second: TilesetGraveyard_200
+  - first:
+      213: 2281252050418931546
+    second: TilesetGraveyard_201
+  - first:
+      213: 2658920034364886261
+    second: TilesetGraveyard_202
+  - first:
+      213: 5211039679865922886
+    second: TilesetGraveyard_203
+  - first:
+      213: -1991226485667944744
+    second: TilesetGraveyard_204
+  - first:
+      213: -1318322747545971
+    second: TilesetGraveyard_205
+  - first:
+      213: 4869497811506736346
+    second: TilesetGraveyard_206
+  - first:
+      213: -1425263646004105300
+    second: TilesetGraveyard_207
+  - first:
+      213: 31063532168529543
+    second: TilesetGraveyard_208
+  - first:
+      213: 2836992226335115196
+    second: TilesetGraveyard_209
+  - first:
+      213: 9041473806855779779
+    second: TilesetGraveyard_210
+  - first:
+      213: 9211635654414476967
+    second: TilesetGraveyard_211
+  - first:
+      213: -1161357112041706152
+    second: TilesetGraveyard_212
+  - first:
+      213: 1656272147640517246
+    second: TilesetGraveyard_213
+  - first:
+      213: -2303399082730651579
+    second: TilesetGraveyard_214
+  - first:
+      213: 6651558055176122306
+    second: TilesetGraveyard_215
+  - first:
+      213: 8738502072995075158
+    second: TilesetGraveyard_216
+  - first:
+      213: 8010762665945588661
+    second: TilesetGraveyard_217
+  - first:
+      213: -1563661483800631479
+    second: TilesetGraveyard_218
+  - first:
+      213: 3872751139889415812
+    second: TilesetGraveyard_219
+  - first:
+      213: -3447843218647460711
+    second: TilesetGraveyard_220
+  - first:
+      213: 3440485940252136737
+    second: TilesetGraveyard_221
+  - first:
+      213: 146895317969878574
+    second: TilesetGraveyard_222
+  - first:
+      213: 5166457139761084989
+    second: TilesetGraveyard_223
+  - first:
+      213: -6521094243725180637
+    second: TilesetGraveyard_224
+  - first:
+      213: 7721702380445334117
+    second: TilesetGraveyard_225
+  - first:
+      213: -6846655631553505650
+    second: TilesetGraveyard_226
+  - first:
+      213: 5857209292703911798
+    second: TilesetGraveyard_227
+  - first:
+      213: -943945572141703750
+    second: TilesetGraveyard_228
+  - first:
+      213: 53775287993004537
+    second: TilesetGraveyard_229
+  - first:
+      213: -784609466943616106
+    second: TilesetGraveyard_230
+  - first:
+      213: -6188011630318581794
+    second: TilesetGraveyard_231
+  - first:
+      213: 8821644674514321309
+    second: TilesetGraveyard_232
+  - first:
+      213: 4678131362976112808
+    second: TilesetGraveyard_233
+  - first:
+      213: 194315534746002112
+    second: TilesetGraveyard_234
+  - first:
+      213: -397660012687476802
+    second: TilesetGraveyard_235
+  - first:
+      213: 3144869371027259624
+    second: TilesetGraveyard_236
+  - first:
+      213: 2453512750213205944
+    second: TilesetGraveyard_237
+  - first:
+      213: -1863115346304909250
+    second: TilesetGraveyard_238
+  - first:
+      213: -2074860918633023507
+    second: TilesetGraveyard_239
+  - first:
+      213: -3997492587986949482
+    second: TilesetGraveyard_240
+  - first:
+      213: -3809587760629270705
+    second: TilesetGraveyard_241
+  - first:
+      213: -2262451280302590944
+    second: TilesetGraveyard_242
+  - first:
+      213: -7858835149119142511
+    second: TilesetGraveyard_243
+  - first:
+      213: 2179769087490870877
+    second: TilesetGraveyard_244
+  - first:
+      213: 4016517666232093688
+    second: TilesetGraveyard_245
+  - first:
+      213: -6582172427610476035
+    second: TilesetGraveyard_246
+  - first:
+      213: -2242713786211899580
+    second: TilesetGraveyard_247
+  - first:
+      213: 1731007380753826647
+    second: TilesetGraveyard_248
+  - first:
+      213: -7023792828650337569
+    second: TilesetGraveyard_249
+  - first:
+      213: 7764888368821196162
+    second: TilesetGraveyard_250
+  - first:
+      213: 6114702568923592909
+    second: TilesetGraveyard_251
+  - first:
+      213: -5878491639522605277
+    second: TilesetGraveyard_252
+  - first:
+      213: 3314916047657196345
+    second: TilesetGraveyard_253
+  - first:
+      213: -2021244119323258439
+    second: TilesetGraveyard_254
+  - first:
+      213: -6621082755423061455
+    second: TilesetGraveyard_255
+  - first:
+      213: 5684507244536735754
+    second: TilesetGraveyard_256
+  - first:
+      213: 7945415267755030245
+    second: TilesetGraveyard_257
+  - first:
+      213: -6283935466695584947
+    second: TilesetGraveyard_258
+  - first:
+      213: 148547608088793222
+    second: TilesetGraveyard_259
+  - first:
+      213: -8272133658105641730
+    second: TilesetGraveyard_260
+  - first:
+      213: -6260942906344473773
+    second: TilesetGraveyard_261
+  - first:
+      213: 7424203124493288207
+    second: TilesetGraveyard_262
+  - first:
+      213: 6561270617023130006
+    second: TilesetGraveyard_263
+  - first:
+      213: 3030897031121562088
+    second: TilesetGraveyard_264
+  - first:
+      213: 4094792380645867468
+    second: TilesetGraveyard_265
+  - first:
+      213: -99277345219095866
+    second: TilesetGraveyard_266
+  - first:
+      213: 8803876868844051305
+    second: TilesetGraveyard_267
+  - first:
+      213: -6554334742952980161
+    second: TilesetGraveyard_268
+  - first:
+      213: 250408695680177408
+    second: TilesetGraveyard_269
+  - first:
+      213: -5138090618436443608
+    second: TilesetGraveyard_270
+  - first:
+      213: 6488646638797021798
+    second: TilesetGraveyard_271
+  - first:
+      213: 483681421680646859
+    second: TilesetGraveyard_272
+  - first:
+      213: -7518712989456202781
+    second: TilesetGraveyard_273
+  - first:
+      213: -3867557919461277716
+    second: TilesetGraveyard_274
+  - first:
+      213: 8216242704789924831
+    second: TilesetGraveyard_275
+  - first:
+      213: 262017282728854839
+    second: TilesetGraveyard_276
+  - first:
+      213: -8827494206313536724
+    second: TilesetGraveyard_277
+  - first:
+      213: 754950227811827657
+    second: TilesetGraveyard_278
+  - first:
+      213: -4043925646200518092
+    second: TilesetGraveyard_279
+  - first:
+      213: -778134194696612452
+    second: TilesetGraveyard_280
+  - first:
+      213: -63908720415696161
+    second: TilesetGraveyard_281
+  - first:
+      213: 2187225751116604991
+    second: TilesetGraveyard_282
+  - first:
+      213: 931134035083944087
+    second: TilesetGraveyard_283
+  - first:
+      213: 4243440340889214581
+    second: TilesetGraveyard_284
+  - first:
+      213: 4693174132301718172
+    second: TilesetGraveyard_285
+  - first:
+      213: 8554516206280027199
+    second: TilesetGraveyard_286
+  - first:
+      213: 5929360529208733163
+    second: TilesetGraveyard_287
+  - first:
+      213: 6692919022165492384
+    second: TilesetGraveyard_288
+  - first:
+      213: 8254222605266261397
+    second: TilesetGraveyard_289
+  - first:
+      213: -4189227990983810089
+    second: TilesetGraveyard_290
+  - first:
+      213: 6711247021034845928
+    second: TilesetGraveyard_291
+  - first:
+      213: 6949761330613079033
+    second: TilesetGraveyard_292
+  - first:
+      213: -5500234596412662655
+    second: TilesetGraveyard_293
+  - first:
+      213: -8621005408091424467
+    second: TilesetGraveyard_294
+  - first:
+      213: -7447161809513836939
+    second: TilesetGraveyard_295
+  - first:
+      213: -6863534325303903961
+    second: TilesetGraveyard_296
+  - first:
+      213: -3585559423961849525
+    second: TilesetGraveyard_297
+  - first:
+      213: -1105903009143784695
+    second: TilesetGraveyard_298
+  - first:
+      213: -779262651763416193
+    second: TilesetGraveyard_299
+  - first:
+      213: 2707851305992516173
+    second: TilesetGraveyard_300
+  - first:
+      213: 6651544800635627922
+    second: TilesetGraveyard_301
+  - first:
+      213: -2403148394906250905
+    second: TilesetGraveyard_302
+  - first:
+      213: 5699419863365133573
+    second: TilesetGraveyard_303
+  - first:
+      213: 6673515817488707856
+    second: TilesetGraveyard_304
+  - first:
+      213: 419310666466810538
+    second: TilesetGraveyard_305
+  - first:
+      213: -7145860591877296247
+    second: TilesetGraveyard_306
+  - first:
+      213: -5921173299809455681
+    second: TilesetGraveyard_307
+  - first:
+      213: 6224897159047663658
+    second: TilesetGraveyard_308
+  - first:
+      213: 3104278155124586516
+    second: TilesetGraveyard_309
+  - first:
+      213: -659333212752364822
+    second: TilesetGraveyard_310
+  - first:
+      213: -5331221373767295126
+    second: TilesetGraveyard_311
+  - first:
+      213: 947578282452157714
+    second: TilesetGraveyard_312
+  - first:
+      213: -6528305984947448188
+    second: TilesetGraveyard_313
+  - first:
+      213: -7724667770375588577
+    second: TilesetGraveyard_314
+  - first:
+      213: 671794562109526588
+    second: TilesetGraveyard_315
+  - first:
+      213: 644517299600290523
+    second: TilesetGraveyard_316
+  - first:
+      213: 2994605535409049769
+    second: TilesetGraveyard_317
+  - first:
+      213: -6463417450934584026
+    second: TilesetGraveyard_318
+  - first:
+      213: -5959043018714753827
+    second: TilesetGraveyard_319
+  - first:
+      213: -5084127306656221864
+    second: TilesetGraveyard_320
+  - first:
+      213: 5085353193394055659
+    second: TilesetGraveyard_321
+  - first:
+      213: -8058026105841289565
+    second: TilesetGraveyard_322
+  - first:
+      213: 7445169464767810850
+    second: TilesetGraveyard_323
+  - first:
+      213: -2196169503385396075
+    second: TilesetGraveyard_324
+  - first:
+      213: -7909219072347322293
+    second: TilesetGraveyard_325
+  - first:
+      213: -1230994220542534039
+    second: TilesetGraveyard_326
+  - first:
+      213: -689695603299197755
+    second: TilesetGraveyard_327
+  - first:
+      213: 1145070584333499218
+    second: TilesetGraveyard_328
+  - first:
+      213: -254060132318860169
+    second: TilesetGraveyard_329
+  - first:
+      213: 2197007177106451954
+    second: TilesetGraveyard_330
+  - first:
+      213: -5457305705944336646
+    second: TilesetGraveyard_331
+  - first:
+      213: 203998281167913134
+    second: TilesetGraveyard_332
+  - first:
+      213: 6452072975955162728
+    second: TilesetGraveyard_333
+  - first:
+      213: -6881589533132527578
+    second: TilesetGraveyard_334
+  - first:
+      213: 2543734657733012010
+    second: TilesetGraveyard_335
+  - first:
+      213: -638672177380169238
+    second: TilesetGraveyard_336
+  - first:
+      213: 6008116814483333953
+    second: TilesetGraveyard_337
+  - first:
+      213: -2837256536742067087
+    second: TilesetGraveyard_338
+  - first:
+      213: -7230010248065984963
+    second: TilesetGraveyard_339
+  - first:
+      213: -4030928083867630188
+    second: TilesetGraveyard_340
+  - first:
+      213: -7383281184616881653
+    second: TilesetGraveyard_341
+  - first:
+      213: -3711803365221241463
+    second: TilesetGraveyard_342
+  - first:
+      213: -8611114025753069342
+    second: TilesetGraveyard_343
+  - first:
+      213: 5440890863223147807
+    second: TilesetGraveyard_344
+  - first:
+      213: 2546124731698861471
+    second: TilesetGraveyard_345
+  - first:
+      213: -38998231791169250
+    second: TilesetGraveyard_346
+  - first:
+      213: 7349411303855982083
+    second: TilesetGraveyard_347
+  - first:
+      213: -6331558623415245566
+    second: TilesetGraveyard_348
+  - first:
+      213: 4344282804400596728
+    second: TilesetGraveyard_349
+  - first:
+      213: -3393886963362986309
+    second: TilesetGraveyard_350
+  - first:
+      213: 3241502402659347207
+    second: TilesetGraveyard_351
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetGraveyard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f4ccd8da43ebf0800000000000000
+      internalID: -296310855199034265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c79a4f61f716b1f0800000000000000
+      internalID: -1029609139085862971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddaa630bda91360800000000000000
+      internalID: 7140929656515648885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af647441577ad8ae0800000000000000
+      internalID: -1545394975824984326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8bd92986fcb8a0800000000000000
+      internalID: -6287879910742848197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317f9e7628427fa0800000000000000
+      internalID: -5804497639556812483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813e7c553760f580800000000000000
+      internalID: -8795416593371876982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377326f7ca2e13a60800000000000000
+      internalID: 7652146472378578803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f076caa744acda980800000000000000
+      internalID: -8525936124077775089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6ae300280c0f60800000000000000
+      internalID: 8001779571528199041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4493d3052fbce370800000000000000
+      internalID: 8353261574564320335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333c228a0eb81ab0800000000000000
+      internalID: -5037067230871014597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630d05caacb14710800000000000000
+      internalID: 1675827977994961767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f253db059068df10800000000000000
+      internalID: 2294690203410060025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b836fbe248ec9090800000000000000
+      internalID: -8026285061756798798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa499345fabe7d0800000000000000
+      internalID: -2888021959749883379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7dc6a4094eb1660800000000000000
+      internalID: 7357725724614907831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c16ecb26496eb0800000000000000
+      internalID: -4726169179988572076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0616dc88efa04be50800000000000000
+      internalID: 6824091423706276192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c6d32095937d00800000000000000
+      internalID: 969282791123896237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3087343c104fb0800000000000000
+      internalID: -4665698203360806298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73901347d01a8cf0800000000000000
+      internalID: -249368312636468357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87479654a8b37df0800000000000000
+      internalID: -183600143825156209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96984ad608af6910800000000000000
+      internalID: 1832868320748541596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f176728c8694790800000000000000
+      internalID: -7545384491818737919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a911d8da2fa32fb0800000000000000
+      internalID: -4673699389719373408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ea49a20ea60240800000000000000
+      internalID: 4757681382816932306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f189f30ce92fe35f0800000000000000
+      internalID: -774915322216998881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ca106452314f70800000000000000
+      internalID: 9169665654274049970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f402515bf9a750800000000000000
+      internalID: 6316856279050809901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff928f7c78a7d90800000000000000
+      internalID: -7099212569664421936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7902a5c75aac7d0800000000000000
+      internalID: -2897321456752879706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07daef666bf20a0800000000000000
+      internalID: -6904099150259982140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deced082926eb1840800000000000000
+      internalID: 5195999659542047981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062cbdadc9bb7bc60800000000000000
+      internalID: 7833936359195394656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c02be978363da0800000000000000
+      internalID: -5965518560118651376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62347f53cea39f5b0800000000000000
+      internalID: -5334167497451551962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6727f6f07a7e40a00800000000000000
+      internalID: 721956544990638710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a1c98d4877f0d0800000000000000
+      internalID: -3389107920154023774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8fc5f76d43106a0800000000000000
+      internalID: -6484843892572358420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc88b6ccbf9a19f0800000000000000
+      internalID: -496909175734367041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79780be1e744cfa0800000000000000
+      internalID: -5781416986000459395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b469b4fecba5a10800000000000000
+      internalID: 1899037928841431868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811d694bd5f0fa90800000000000000
+      internalID: -7282050275279564409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877cbd6c27199c0d0800000000000000
+      internalID: -3402028121353107592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d03da38029dbaf50800000000000000
+      internalID: 6893842388292022481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7a144e087489320800000000000000
+      internalID: 2564878606698391543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464ed3eed75bb9d0800000000000000
+      internalID: -2757513732016945587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bf2c9bb619d440800000000000000
+      internalID: 4961021459560380591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63580ff932b62180800000000000000
+      internalID: -9140422431540227217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d28ac01bd773840800000000000000
+      internalID: 5203766093824929072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17760d80b686180800000000000000
+      internalID: -9121923359638588940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed259e31d299da320800000000000000
+      internalID: 2570879381185057502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc375bac078d229b0800000000000000
+      internalID: -5106281048535895093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71fa608d13dfc920800000000000000
+      internalID: 3012858799396155771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8e987cfb54ae90800000000000000
+      internalID: -7015381179622847861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c13db6047d0350800000000000000
+      internalID: 5984567052138039470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d62b820ca767e0800000000000000
+      internalID: -1772258801422510767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e6cb6c40b64680800000000000000
+      internalID: -8771129381985263301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c78ffbc9ad63b0800000000000000
+      internalID: -5517567274828445358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85041a469588f0640800000000000000
+      internalID: 5048403624827371608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750e3e3fdabb46d0800000000000000
+      internalID: -3005102858354948751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825fc1dc052c8ab0800000000000000
+      internalID: -5004584348925603192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184895daaa5f94a0800000000000000
+      internalID: -6584444440417908712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adee2113bd53e010800000000000000
+      internalID: 1216919347988983202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3027e824817fa8d10800000000000000
+      internalID: 2128785457453888003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c57ee305ddf1320800000000000000
+      internalID: 2530984852327980190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6752f6f38f9740800000000000000
+      internalID: 5160988794640886615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf249df0fbda5bc0800000000000000
+      internalID: -3793477908013240399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fec263a3ba952a0800000000000000
+      internalID: -6748174300132610154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93869fb3658032970800000000000000
+      internalID: 8728829669240563769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0649e2e7b236fd0800000000000000
+      internalID: -2349986759609917237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c7d9391033c4320800000000000000
+      internalID: 2543463971422043200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aeef7487878c350800000000000000
+      internalID: 6037207758489447047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1fcf5003258fd0800000000000000
+      internalID: -2340425946834723321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a288c95e3248e0800000000000000
+      internalID: -1710736353110350357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd27afdac6c61420800000000000000
+      internalID: 2600484409491009023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3058f19555ca9090800000000000000
+      internalID: -8026886414522625985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb3a6e7689bc3a00800000000000000
+      internalID: 737668426279566286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a028fd5c7fe8560800000000000000
+      internalID: 7318058873754094130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854429d6dea57b60800000000000000
+      internalID: 7743287372122703235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee46cb69319f7930800000000000000
+      internalID: 4143189858011467502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff2fc49023241a10800000000000000
+      internalID: 1879165567362871287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1756bd2875b381bc0800000000000000
+      internalID: -3812231837525514895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec2df6562124cf00800000000000000
+      internalID: 1136069454556114145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a0c4e4a66db8900800000000000000
+      internalID: 687879120172616193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e99a1531f304500800000000000000
+      internalID: 378371720906120823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09efdbec66c188aa0800000000000000
+      internalID: -6158641262548353392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb721842084ff370800000000000000
+      internalID: 8358478608059235263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf3405fe77ccb190800000000000000
+      internalID: -7945256294497894436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecd3a6ad23d094c0800000000000000
+      internalID: -4282691052606595871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa4575f1356ce540800000000000000
+      internalID: 5038513348366650111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_92
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6a188760e10110800000000000000
+      internalID: 1225507308891171868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e575a576caf5f0800000000000000
+      internalID: -722046581650103269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29ad30301fb9130800000000000000
+      internalID: 3574715724500472524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1319a946b296c0800000000000000
+      internalID: -4138044680114594614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459880462f0bdb8b0800000000000000
+      internalID: -5134753445025642156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetGraveyard_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c1c5b85e28e440800000000000000
+      internalID: 4965269547717347284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
