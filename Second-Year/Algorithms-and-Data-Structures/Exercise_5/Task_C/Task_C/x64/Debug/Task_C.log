@@ -1,7 +1,0 @@
-﻿  Task_C.cpp
-C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_C\Task_C\Task_C.cpp(54,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_C\Task_C\Task_C.cpp(61,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_C\Task_C\Task_C.cpp(66,26): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_C\Task_C\Task_C.cpp(93,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_C\Task_C\Task_C.cpp(101,26): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  Task_C.vcxproj -> C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_C\x64\Debug\Task_C.exe

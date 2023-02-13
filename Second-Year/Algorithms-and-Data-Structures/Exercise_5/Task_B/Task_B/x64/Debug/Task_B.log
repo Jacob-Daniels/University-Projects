@@ -1,3 +1,0 @@
-﻿  Task_B.cpp
-C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_B\Task_B\Task_B.cpp(47,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Task_B.vcxproj -> C:\Users\jacob\OneDrive\Desktop\Exercise_5\Task_B\x64\Debug\Task_B.exe
