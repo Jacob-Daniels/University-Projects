@@ -1,0 +1,15 @@
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\bin\Debug\net6.0\Task_A.exe
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\bin\Debug\net6.0\Task_A.deps.json
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\bin\Debug\net6.0\Task_A.runtimeconfig.json
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\bin\Debug\net6.0\Task_A.dll
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\bin\Debug\net6.0\Task_A.pdb
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.dll
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\refint\Task_A.dll
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.pdb
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\Task_A.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_A\Task_A\obj\Debug\net6.0\ref\Task_A.dll

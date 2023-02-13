@@ -1,0 +1,8 @@
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\bin\Debug\Task_B.exe.config
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\bin\Debug\Task_B.exe
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\bin\Debug\Task_B.pdb
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\obj\Debug\Task_B.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\obj\Debug\Task_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\obj\Debug\Task_B.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\obj\Debug\Task_B.exe
+C:\Users\jacob\OneDrive\Desktop\Exercise_3\Task_B\Task_B\obj\Debug\Task_B.pdb

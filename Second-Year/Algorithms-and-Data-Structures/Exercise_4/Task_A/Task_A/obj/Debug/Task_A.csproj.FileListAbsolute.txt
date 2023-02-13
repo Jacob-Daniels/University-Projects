@@ -1,0 +1,11 @@
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\bin\Debug\Task_A.exe.config
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\bin\Debug\Task_A.exe
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\bin\Debug\Task_A.pdb
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.Form1.resources
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.exe
+C:\Users\jacob\OneDrive\Desktop\Exercise_4\Task_A\Task_A\obj\Debug\Task_A.pdb
