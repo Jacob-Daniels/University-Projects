@@ -5,6 +5,6 @@
     <li>Team: Solo
     <li>Date: February 2023
     <li>Theme: 'Trapped' & '30 Seconds'
-    <li>Download: <a href="https://yayacob.itch.io/extraction-404">Itch.io</a> or <a href="">Repository</a>
+    <li>Download: <a href="https://yayacob.itch.io/extraction-404">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-1">Repository</a>
   </ul>
 </div>
