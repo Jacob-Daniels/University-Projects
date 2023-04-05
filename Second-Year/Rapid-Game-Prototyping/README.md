@@ -29,7 +29,7 @@
     <li>Team: Solo
     <li>Date: March 2023
     <li>Theme: 'Nature' & 'Personalisation'
-    <li>Download: <a href="https://yayacob.itch.io/messy-moss">Itch.io</a> or <a href="">Repository</a>
+    <li>Download: <a href="https://yayacob.itch.io/messy-moss">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-4">Repository</a>
   </ul>
   <h2>Game 5:</h2>
   <ul>
@@ -37,6 +37,6 @@
     <li>Team: Solo
     <li>Date: April 2023
     <li>Theme: 'Wind it up' & 'Mouse Only'
-    <li>Download: <a href="">Repository</a>
+    <li>Download: <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-5">Repository</a>
   </ul>
 </div>
