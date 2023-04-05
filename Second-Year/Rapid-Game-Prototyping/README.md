@@ -32,7 +32,7 @@
     <li>Team: Solo
     <li>Date: March 2023
     <li>Theme: 'Nature' & 'Personalisation'
-    <li>Summary: A object-finding game, where the player has to move the magnifying glass around and dig up little rocks/moss to complete tasks
+    <li>Summary: An object-finding game, where the player has to move the magnifying glass around and dig up little rocks/moss to complete tasks
     <li>Download: <a href="https://yayacob.itch.io/messy-moss">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-4">Repository</a>
   </ul>
   <h2>Game 5:</h2>
