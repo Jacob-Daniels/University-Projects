@@ -21,6 +21,6 @@
     <li>Team: Solo
     <li>Date: February 2023
     <li>Theme: 'Rebellion' & 'Foley'
-    <li>Download: <a href="https://yayacob.itch.io/virellion">Itch.io</a> or <a href="">Repository</a>
+    <li>Download: <a href="https://yayacob.itch.io/virellion">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-3">Repository</a>
   </ul>
 </div>
