@@ -13,7 +13,7 @@
     <li>Team: Solo
     <li>Date: February 2023
     <li>Theme: 'Size' & 'Monochromatic'
-    <li>Download: <a href="https://yayacob.itch.io/resync-reality">Itch.io</a> or <a href="">Repository</a>
+    <li>Download: <a href="https://yayacob.itch.io/resync-reality">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-2">Repository</a>
   </ul>
   <h2>Game 3:</h2>
   <ul>
