@@ -17,5 +17,5 @@
 
 <!-- Project Image/Gif -->
 <div id="header" align="center">
-  <img src="README_Images/Volcania_1.jpg"/>
+  <img src="README-Images/Volcania_1.jpg"/>
 </div>

@@ -24,5 +24,5 @@
 
 <!-- Project Image/Gif -->
 <div id="header" align="center">
-  <img src="README_Images/Bonkers_Battle.gif"/>
+  <img src="README-Images/Bonkers_Battle.gif"/>
 </div>
