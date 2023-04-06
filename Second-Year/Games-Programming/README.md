@@ -5,8 +5,12 @@
   <h4>For this assignment, I was given an existing SFML project, where I had to add the following:</h4>
   <ul>
     <li>Debugging & refactoring code
-    <li>Animation system (for the player)
-    <li>Wall jumping & sliding
+    <ul>
+      <li> Collision class
+      <li> State pattern
+    </ul>
+    <li>Animation script (for the player)
+    <li>Wall jumping & sliding script
   </ul>
   <h3>⭐Project Details:</h3>
   <ul>
