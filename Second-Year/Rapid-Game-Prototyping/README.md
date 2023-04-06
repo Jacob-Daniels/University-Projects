@@ -41,7 +41,7 @@
     <li>Team: Solo
     <li>Date: April 2023
     <li>Theme: 'Wind it up' & 'Mouse Only'
-    <li>Summary: A procedurally generated cylinder mesh that extends as the player rolls the ball
+    <li>Summary: A randomly generated cylinder mesh that extends as the player rolls the ball
     <li>Download: <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-5">Repository</a>
   </ul>
 </div>
