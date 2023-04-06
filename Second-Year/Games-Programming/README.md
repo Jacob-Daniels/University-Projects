@@ -18,10 +18,7 @@
     <li>Language: C++
     <li>Library: SFML
   </ul>
+  <!-- Project Image/Gif -->
   <img src="README_Images/GamesProgramming_Clip.gif"/>
 </div>
 
-<!-- Project Image/Gif -->
-<div id="header" align="center">
-  <img src="README_Images/GamesProgramming_Clip.gif"/>
-</div>
