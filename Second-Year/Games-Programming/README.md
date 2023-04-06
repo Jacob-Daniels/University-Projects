@@ -18,11 +18,7 @@
     <li>Language: C++
     <li>Library: SFML
   </ul>
-<<<<<<< Updated upstream
-  <!-- Project Image/Gif -->
-  <img src="README_Images/GamesProgramming_Clip.gif"/>
-=======
+<!-- Project Image/Gif -->
   <img src="README-Images/GamesProgramming_Clip.gif"/>
->>>>>>> Stashed changes
 </div>
 
