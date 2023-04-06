@@ -1,6 +1,6 @@
 <!-- Project Information -->
 <div id="Project Imformation:">
-  <h1>Games Programming - C++ SFML Game:</h1>
+  <h1>Games Programming - C++ Game:</h1>
   <h3>🎮Game Description:</h3>
   <h4>For this assignment, I was given an existing SFML project, where I had to add the following:</h4>
   <ul>
