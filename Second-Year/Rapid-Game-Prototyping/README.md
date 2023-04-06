@@ -8,8 +8,6 @@
     <li>Summary: A 2D puzzle game (Inspired by 1990s 'Lemmings'), where the player has to help the robots escape before the timer runs out
     <li>Download: <a href="https://yayacob.itch.io/extraction-404">Itch.io</a> or <a href="https://github.com/Jacob-Daniels/University-Projects/tree/main/Second-Year/Rapid-Game-Prototyping/Game-1">Repository</a>
   </ul>
-  <!-- Project Image/Gif -->
-  <img src="README-Images/Extraction404_Clip.gif"/>
   <h2>Game 2:</h2>
   <ul>
     <li>Project Name: Resync Reality
