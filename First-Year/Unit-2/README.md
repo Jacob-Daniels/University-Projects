@@ -14,5 +14,5 @@
 
 <!-- Project Image/Gif -->
 <div id="header" align="center">
-  <img src="README_Images/Lost_Woodlands.gif"/>
+  <img src="README-Images/Lost_Woodlands.gif"/>
 </div>
