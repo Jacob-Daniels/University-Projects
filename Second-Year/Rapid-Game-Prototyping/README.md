@@ -1,4 +1,5 @@
 <div>
+  <h3>Rapid Game Prototyping gave a theme and modifier each week, where I had to develop a prototype around them. The list below shows all the prototypes I created, along with the details for each.</h3>
   <h2>Game 1:</h2>
   <ul>
     <li>Project Name: Extraction 404
