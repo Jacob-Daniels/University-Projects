@@ -1,7 +1,7 @@
 <!-- Project Information -->
 <div id="Project Imformation:">
-  <h1>Games Programming - C++ Game:</h1>
-  <h3>🎮Game Description:</h3>
+  <h1>Computer Graphics - C++/OpenGL Project:</h1>
+  <h3>🎮Project Description:</h3>
   <h4>For this unit I had to build on an existing OpenGL project to develop a working traffic scene. The main features are listed below:</h4>
   <ul>
     <li>Building on existing codebase
